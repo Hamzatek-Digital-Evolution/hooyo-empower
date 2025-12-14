@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Women in Business Fund",
+    "category": "Finance",
+    "description": "A government-backed microloan program supporting small-scale women entrepreneurs in Garissa County.",
+    "location": "Garissa County",
+    "organization": "Women Enterprise Fund (WEF)",
+    "link": "https://wef.co.ke"
+  },
+  {
+    "title": "GirlTech Training Bootcamp",
+    "category": "Technology",
+    "description": "A 3-month coding and digital skills program aimed at helping young women build tech careers.",
+    "location": "Garissa Town",
+    "organization": "TechWomen KE",
+    "link": "https://techwomenke.org"
+  },
+  {
+    "title": "Mama Shujaa Initiative",
+    "category": "Health",
+    "description": "Focuses on maternal health awareness, prenatal care, and training for rural health volunteers.",
+    "location": "Wajir County",
+    "organization": "Kenya Red Cross",
+    "link": "https://redcross.or.ke"
+  },
+  {
+    "title": "She Trades Africa",
+    "category": "Business & Export",
+    "description": "Empowering women-led businesses with export and trade knowledge through mentorship and funding.",
+    "location": "Online / Kenya-wide",
+    "organization": "ITC SheTrades",
+    "link": "https://shetrades.com"
+  },
+  {
+    "title": "Nomadic Women Literacy Project",
+    "category": "Education",
+    "description": "Offers basic literacy and numeracy training to nomadic women and girls in rural regions.",
+    "location": "Mandera County",
+    "organization": "UNESCO Kenya",
+    "link": "https://unesco.org/kenya"
+  }
+]
