@@ -30,8 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const query = encodeURIComponent(
     "women empowerment OR gender equality OR female leadership"
   );
-  const sources =
-    "bbc-news,al-jazeera-english,reuters,cnn,the-guardian-uk, the-washington-post,the-new-york-times, citizentv, ktn-news, the-star-kenya, daily-nation";
+  const sources = "bbc-news,al-jazeera-english,reuters,cnn";
   const url = `https://newsapi.org/v2/everything?q=${query}&sources=${sources}&language=en&sortBy=publishedAt&pageSize=6&apiKey=${apiKey}`;
 
   fetch(url)
